@@ -18,7 +18,7 @@ Half adder built from XOR and AND gates diagram
 ![halfaddercircuitdiagram](https://github.com/user-attachments/assets/0b2c8351-d1c5-4ec7-82d7-eae5abd1a98a)
 With this understanding, we can now build a half adder using integrated circuits. These circuits contain multiple logic gates within a single chip. Using the circuit diagram above, I will construct a basic half adder circuit.
 
-
+<img src="https://github.com/user-attachments/assets/dc9b3675-c597-44c5-acbc-404a89351619" style="max-width:100%; height:auto;">
 <img src="https://github.com/user-attachments/assets/dc9b3675-c597-44c5-acbc-404a89351619" width="600">
 <img src="![1](https://github.com/user-attachments/assets/dc9b3675-c597-44c5-acbc-404a89351619)" width="600">
 
