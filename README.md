@@ -20,6 +20,7 @@ With this understanding, we can now build a half adder using integrated circuits
 
 
 ![1](https://github.com/user-attachments/assets/dc9b3675-c597-44c5-acbc-404a89351619)
+
 In the image above, the half adder is adding two binary zeros. This results in both the Sum (S) and Carry-out (Cout) LEDs remaining off since 0 + 0 produces a sum of 0 with no carry. To change the input values, we can toggle either switch A or B. Below, I switch B on, meaning the half adder is now adding 0 and 1 together.
 
 
