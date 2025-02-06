@@ -16,6 +16,7 @@ In the diagram, the half adder (HA) takes two binary inputs, A and B, and produc
 
 Half adder built from XOR and AND gates diagram
 ![halfaddercircuitdiagram](https://github.com/user-attachments/assets/0b2c8351-d1c5-4ec7-82d7-eae5abd1a98a)
+With this understanding, we can now build a half adder using integrated circuits. These circuits contain multiple logic gates within a single chip. Using the circuit diagram above, I will construct a basic half adder circuit.
 
 
 ![1](https://github.com/user-attachments/assets/dc9b3675-c597-44c5-acbc-404a89351619)
