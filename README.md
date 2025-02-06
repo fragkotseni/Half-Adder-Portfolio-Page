@@ -9,8 +9,10 @@ When both inputs (A and B) are 0, the sum (S) is 0, and there is no carry (Cout 
 When A is 0 and B is 1 (or vice versa), the sum (S) is 1 because 0 + 1 = 1, and there is no carry (Cout = 0).
 When both inputs are 1, the sum (S) is 0, but the carry-out (Cout) becomes 1. This happens because in binary, 1 + 1 equals 10, where the rightmost digit (0) is the sum, and the leftmost digit (1) is carried to the next place value.
 This demonstrates how the XOR gate produces the sum (S = A ⊕ B), while the AND gate determines the carry (Cout = A • B).
+
 ![halfadderdiagram](https://github.com/user-attachments/assets/100941a5-641f-4e1a-a1b4-301f2a734c53)
 In the diagram, the half adder (HA) takes two binary inputs, A and B, and produces two outputs: the Sum (S) and the Carry-out (Cout). The Sum represents the result of adding A and B, while Cout is the carry bit that moves to the next place value. The half adder is built using two fundamental logic gates: an XOR gate and an AND gate. The XOR gate calculates the sum, while the AND gate determines the carry value.
 
-#Half adder built from XOR and AND gates diagram
+
+Half adder built from XOR and AND gates diagram
 ![halfaddercircuitdiagram](https://github.com/user-attachments/assets/0b2c8351-d1c5-4ec7-82d7-eae5abd1a98a)
