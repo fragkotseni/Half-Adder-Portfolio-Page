@@ -1,1 +1,4 @@
 # Half-Adder-Portfolio-Page
+The purpose of this repository is to demonstrate my understanding of binary addition and its applications in both theory and practice. To achieve this, I will explain one of the simplest methods for adding two binary numbers: the half adder. A half adder is a fundamental circuit designed to compute the sum and carry of two single-bit binary numbers. It serves as the building block for more complex circuits, such as the full adder and multi-bit adders like the 4-bit adder.
+
+As a brief recap, binary numbers consist only of 0s and 1s, unlike decimal numbers, which use digits from 0 to 9. Because binary has a smaller set of digits, numbers appear to grow in length more quickly compared to decimal. For example, the decimal numbers 0, 1, 2, 3, 4, and 5 are represented in binary as 0, 1, 10, 11, 100, and 101, respectively.
