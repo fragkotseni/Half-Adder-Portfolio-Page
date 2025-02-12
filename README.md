@@ -30,3 +30,12 @@ This combination lights up the S LED because 0 + 1 equals 1. Both examples are l
 Since a single LED can't represent the binary value 2, we need to turn the Sum LED off and carry the extra value to the next column, just like carrying in decimal addition. This is similar to how adding any number to 9 in base 10 results in a two-digit number (e.g., 9 + 1 = 10, 9 + 6 = 15). The key difference is that binary has only two possible states (0 and 1), whereas decimal uses ten (0 through 9).
 
 
+
+A half adder is just one part of the equation. To add multi-bit numbers, you'll need a full adder, which is used for every binary digit beyond the first. A full adder is essentially two half adders connected with an OR gate, enabling it to handle three inputs instead of two. The third input, known as Cin (carry-in), accounts for any carry-over from the previous adder, ensuring proper multi-bit addition.
+
+
+A half adder is just one part of the equation. To add multi-bit numbers, you'll need a full adder, which is used for every binary digit beyond the first. A full adder is essentially two half adders connected with an OR gate, enabling it to handle three inputs instead of two. The third input, known as Cin (carry-in), accounts for any carry-over from the previous adder, ensuring proper multi-bit addition.
+
+
+
+A half adder is just one part of the equation. To add multi-bit numbers, you'll need a full adder, which is used for every binary digit beyond the first. A full adder is essentially two half adders connected with an OR gate, enabling it to handle three inputs instead of two. The third input, known as Cin (carry-in), accounts for any carry-over from the previous adder, ensuring proper multi-bit addition.
