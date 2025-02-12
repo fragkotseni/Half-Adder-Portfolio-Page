@@ -39,10 +39,10 @@ A half adder is just one part of the equation. To add multi-bit numbers, you'll 
 
 
 This black-and-white photograph shows the IBM 608, the first fully transistorized solid-state calculator, introduced in 1955. The machine consists of large, cabinet-like units with a control panel featuring switches and indicator lights. It has a built-in paper tape or punch card reader for input, which was a common data entry method at the time. Unlike earlier computers that relied on vacuum tubes, the IBM 608 used transistors, making it more reliable, energy-efficient, and compact compared to its predecessors. This innovation marked a significant step toward modern computing.
-
 ![image](https://github.com/user-attachments/assets/7d3e948e-5388-405f-bc54-2c6ac6d36398)
 
 References
+
 Cruz, F. (2001, January). The IBM 608 Calculator. Columbia University. Retrieved September 23, 2024, from https://www.columbia.edu/cu/computinghistory/608.html
 
 Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
