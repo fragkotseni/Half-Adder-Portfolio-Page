@@ -27,6 +27,6 @@ In the image above, the half adder is adding two binary zeros. This results in b
 This combination lights up the S LED because 0 + 1 equals 1. Both examples are logical, but something intriguing occurs when both inputs are flipped to 1.
 
 ![Στιγμιότυπο οθόνης (52)](https://github.com/user-attachments/assets/c11519f7-aaec-4e96-a444-202bc1e4a029)
-
+Since a single LED can't represent the binary value 2, we need to turn the Sum LED off and carry the extra value to the next column, just like carrying in decimal addition. This is similar to how adding any number to 9 in base 10 results in a two-digit number (e.g., 9 + 1 = 10, 9 + 6 = 15). The key difference is that binary has only two possible states (0 and 1), whereas decimal uses ten (0 through 9).
 
 
