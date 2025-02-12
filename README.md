@@ -33,3 +33,9 @@ Since a single LED can't represent the binary value 2, we need to turn the Sum L
 
 A half adder is just one part of the equation. To add multi-bit numbers, you'll need a full adder, which is used for every binary digit beyond the first. A full adder is essentially two half adders connected with an OR gate, enabling it to handle three inputs instead of two. The third input, known as Cin (carry-in), accounts for any carry-over from the previous adder, ensuring proper multi-bit addition.
 
+![fulladder](https://github.com/user-attachments/assets/fe5b2a56-5688-442d-92a4-13deefb48dca)
+
+
+
+![image](https://github.com/user-attachments/assets/7d3e948e-5388-405f-bc54-2c6ac6d36398)
+
