@@ -42,3 +42,7 @@ This black-and-white photograph shows the IBM 608, the first fully transistorize
 
 ![image](https://github.com/user-attachments/assets/7d3e948e-5388-405f-bc54-2c6ac6d36398)
 
+References
+Cruz, F. (2001, January). The IBM 608 Calculator. Columbia University. Retrieved September 23, 2024, from https://www.columbia.edu/cu/computinghistory/608.html
+
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
